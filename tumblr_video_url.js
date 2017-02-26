@@ -4,7 +4,8 @@
 // @namespace       http://www.himysql.com/
 // @version         1.1.0
 // @create          2017-02-25
-// @description     Get video url in video blog page
+// @description     Get video url in dashboard or  video blog page
+// @description:zh-CN     获取 tumblr 视频链接
 // @author          leopku
 // @copyright       2017+, leopku
 // @license         MIT License
